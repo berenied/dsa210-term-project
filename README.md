@@ -1,6 +1,7 @@
 # DSA210 Project  
-**Ela Beren Yücel**  
-**DSA 210 – Introduction to Data Science**
+**Course:** DSA 210 – Introduction to Data Science  
+**Student:** Ela Beren Yücel  
+**Student ID:** 34155  
 
 ## Project Overview
 
