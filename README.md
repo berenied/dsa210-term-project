@@ -1,33 +1,33 @@
-**Course:** DSA 210 – Introduction to Data Science 
-**Name:** Ela Beren Yücel
-**Student ID:** 34155
+# DSA210 Project  
+**Ela Beren Yücel**  
+**DSA 210 – Introduction to Data Science**
 
 ## Project Overview
 
-This project investigates to what extent people are shifting from human-to-human interaction to human-to-AI interaction with the rise of tools like ChatGPT.
+This project investigates to what extent people are shifting from human-to-human interaction to human-to-AI interaction with the rise of tools like ChatGPT.  
 Traditionally, people relied on others for asking questions, getting advice, studying, or emotional support. Today, some of these activities may be shifting toward AI-based interaction, and this project aims to measure how significant this shift is.
 
-## Data Sources
+## Data Used
+This phase mainly uses **Google Trends** data with three keyword comparison groups:
 
-- **Google Trends**  
-  Search interest data (weekly, multiple years)  
-  → Several hundred observations per keyword  
+- **Advice / interaction:** `Yahoo Answers`, `Ask.fm`, `ai friend`
+- **General help-seeking:** `quora`, `chatgpt help`
+- **Study support:** `course hero`, `chatgpt study`, `chegg`
 
-- **Stack Overflow Developer Survey 2025**  
-  ~49,000 responses from 177 countries  
-
-- **Pew Research Surveys**  
-  ~1,000–1,500 participants  
-
-- **NHIS (Public Health Data)**  
-  ~30,000+ individuals per year  
+Future phases may also incorporate:
+- **Stack Overflow Developer Survey 2025**
+- **Pew Research survey data**
 
 ## Method
+The current phase includes:
+- data collection
+- data cleaning and preparation
+- exploratory data analysis (EDA)
+- trend visualization
+- descriptive statistics
+- correlation analysis
+- difference and ratio calculations
+- paired t-tests for hypothesis testing
 
-- Compare AI-related search terms (e.g., “ChatGPT”, “ask AI”)  
-- Compare human-based terms (e.g., “forum help”, “study group”)  
-- Analyze trends over time  
-- Support findings with survey data  
-
-## Goal
-To measure the extent of the shift from human-to-human interaction to human-to-AI interaction using real-world data.
+## Initial Insight
+The initial results suggest that AI-related and human-based terms do not follow the same pattern over time, and that AI-related terms may be gaining relative strength in some contexts.
