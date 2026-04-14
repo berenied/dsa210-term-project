@@ -13,7 +13,7 @@ The datasets used in this phase are:
 - **General Help-Seeking Keyword Comparison**
 - **Study Support Keyword Comparison**
 
-In the later stages of the project, additional survey-based datasets may also be incorporated to strengthen the analysis. Based on the project proposal, these may include the **2025 Stack Overflow Developer Survey** and **Pew Research survey data**.  [oai_citation:0‡DSA210 - Project Proposal.pdf](sediment://file_000000005b0872469d3d99c1b04853ee)
+In the later stages of the project, additional survey-based datasets may also be incorporated to strengthen the analysis. Based on the project proposal, these may include the **2025 Stack Overflow Developer Survey** and **Pew Research survey data**.  
 
 ## How the Data Was Collected
 
