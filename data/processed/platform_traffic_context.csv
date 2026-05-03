@@ -1,0 +1,55 @@
+platform,domain,platform_type,category,month,visits,metric,source,collection_date
+ChatGPT,chatgpt.com,AI platform,general_help_seeking,2025-10-01,6170000000,visits,WebsiteTrafficChecker,2026-05-03
+ChatGPT,chatgpt.com,AI platform,general_help_seeking,2025-11-01,5840000000,visits,WebsiteTrafficChecker,2026-05-03
+ChatGPT,chatgpt.com,AI platform,general_help_seeking,2025-12-01,5520000000,visits,WebsiteTrafficChecker,2026-05-03
+ChatGPT,chatgpt.com,AI platform,general_help_seeking,2026-01-01,5720000000,visits,WebsiteTrafficChecker,2026-05-03
+ChatGPT,chatgpt.com,AI platform,general_help_seeking,2026-02-01,5350000000,visits,WebsiteTrafficChecker,2026-05-03
+ChatGPT,chatgpt.com,AI platform,general_help_seeking,2026-03-01,5730000000,visits,WebsiteTrafficChecker,2026-05-03
+Claude,claude.ai,AI platform,general_help_seeking,2025-10-01,197000000,visits,WebsiteTrafficChecker,2026-05-03
+Claude,claude.ai,AI platform,general_help_seeking,2025-11-01,180310000,visits,WebsiteTrafficChecker,2026-05-03
+Claude,claude.ai,AI platform,general_help_seeking,2025-12-01,172690000,visits,WebsiteTrafficChecker,2026-05-03
+Claude,claude.ai,AI platform,general_help_seeking,2026-01-01,202930000,visits,WebsiteTrafficChecker,2026-05-03
+Claude,claude.ai,AI platform,general_help_seeking,2026-02-01,290330000,visits,WebsiteTrafficChecker,2026-05-03
+Claude,claude.ai,AI platform,general_help_seeking,2026-03-01,310000000,visits,WebsiteTrafficChecker,2026-05-03
+Character AI,character.ai,AI platform,ai_interaction,2025-10-01,185570000,visits,WebsiteTrafficChecker,2026-05-03
+Character AI,character.ai,AI platform,ai_interaction,2025-11-01,181290000,visits,WebsiteTrafficChecker,2026-05-03
+Character AI,character.ai,AI platform,ai_interaction,2025-12-01,191310000,visits,WebsiteTrafficChecker,2026-05-03
+Character AI,character.ai,AI platform,ai_interaction,2026-01-01,194400000,visits,WebsiteTrafficChecker,2026-05-03
+Character AI,character.ai,AI platform,ai_interaction,2026-02-01,190000000,visits,WebsiteTrafficChecker,2026-05-03
+Character AI,character.ai,AI platform,ai_interaction,2026-03-01,194620000,visits,WebsiteTrafficChecker,2026-05-03
+Quora,quora.com,Forum Q&A platform,general_help_seeking,2025-10-01,397860000,visits,WebsiteTrafficChecker,2026-05-03
+Quora,quora.com,Forum Q&A platform,general_help_seeking,2025-11-01,394000000,visits,WebsiteTrafficChecker,2026-05-03
+Quora,quora.com,Forum Q&A platform,general_help_seeking,2025-12-01,390000000,visits,WebsiteTrafficChecker,2026-05-03
+Quora,quora.com,Forum Q&A platform,general_help_seeking,2026-01-01,386000000,visits,WebsiteTrafficChecker,2026-05-03
+Quora,quora.com,Forum Q&A platform,general_help_seeking,2026-02-01,381000000,visits,WebsiteTrafficChecker,2026-05-03
+Quora,quora.com,Forum Q&A platform,general_help_seeking,2026-03-01,376250000,visits,WebsiteTrafficChecker,2026-05-03
+Chegg,chegg.com,Study support platform,study_support,2025-10-01,11390000,visits,WebsiteTrafficChecker,2026-05-03
+Chegg,chegg.com,Study support platform,study_support,2025-11-01,9280000,visits,WebsiteTrafficChecker,2026-05-03
+Chegg,chegg.com,Study support platform,study_support,2025-12-01,6150000,visits,WebsiteTrafficChecker,2026-05-03
+Chegg,chegg.com,Study support platform,study_support,2026-01-01,5350000,visits,WebsiteTrafficChecker,2026-05-03
+Chegg,chegg.com,Study support platform,study_support,2026-02-01,4750000,visits,WebsiteTrafficChecker,2026-05-03
+Chegg,chegg.com,Study support platform,study_support,2026-03-01,4350000,visits,WebsiteTrafficChecker,2026-05-03
+Course Hero,coursehero.com,Study support platform,study_support,2025-10-01,8300000,visits,WebsiteTrafficChecker,2026-05-03
+Course Hero,coursehero.com,Study support platform,study_support,2025-11-01,6970000,visits,WebsiteTrafficChecker,2026-05-03
+Course Hero,coursehero.com,Study support platform,study_support,2025-12-01,5530000,visits,WebsiteTrafficChecker,2026-05-03
+Course Hero,coursehero.com,Study support platform,study_support,2026-01-01,5150000,visits,WebsiteTrafficChecker,2026-05-03
+Course Hero,coursehero.com,Study support platform,study_support,2026-02-01,4750000,visits,WebsiteTrafficChecker,2026-05-03
+Course Hero,coursehero.com,Study support platform,study_support,2026-03-01,4450000,visits,WebsiteTrafficChecker,2026-05-03
+WikiHow,wikihow.com,General help platform,general_help_seeking,2025-10-01,40590000,visits,WebsiteTrafficChecker,2026-05-03
+WikiHow,wikihow.com,General help platform,general_help_seeking,2025-11-01,40090000,visits,WebsiteTrafficChecker,2026-05-03
+WikiHow,wikihow.com,General help platform,general_help_seeking,2025-12-01,39600000,visits,WebsiteTrafficChecker,2026-05-03
+WikiHow,wikihow.com,General help platform,general_help_seeking,2026-01-01,39100000,visits,WebsiteTrafficChecker,2026-05-03
+WikiHow,wikihow.com,General help platform,general_help_seeking,2026-02-01,38550000,visits,WebsiteTrafficChecker,2026-05-03
+WikiHow,wikihow.com,General help platform,general_help_seeking,2026-03-01,38000000,visits,WebsiteTrafficChecker,2026-05-03
+Quizlet,quizlet.com,Study support platform,study_support,2025-10-01,95160000,visits,WebsiteTrafficChecker,2026-05-03
+Quizlet,quizlet.com,Study support platform,study_support,2025-11-01,79150000,visits,WebsiteTrafficChecker,2026-05-03
+Quizlet,quizlet.com,Study support platform,study_support,2025-12-01,73500000,visits,WebsiteTrafficChecker,2026-05-03
+Quizlet,quizlet.com,Study support platform,study_support,2026-01-01,70500000,visits,WebsiteTrafficChecker,2026-05-03
+Quizlet,quizlet.com,Study support platform,study_support,2026-02-01,67000000,visits,WebsiteTrafficChecker,2026-05-03
+Quizlet,quizlet.com,Study support platform,study_support,2026-03-01,64000000,visits,WebsiteTrafficChecker,2026-05-03
+Khan Academy,khanacademy.org,Study support platform,study_support,2025-10-01,29800000,visits,WebsiteTrafficChecker,2026-05-03
+Khan Academy,khanacademy.org,Study support platform,study_support,2025-11-01,27020000,visits,WebsiteTrafficChecker,2026-05-03
+Khan Academy,khanacademy.org,Study support platform,study_support,2025-12-01,26100000,visits,WebsiteTrafficChecker,2026-05-03
+Khan Academy,khanacademy.org,Study support platform,study_support,2026-01-01,25400000,visits,WebsiteTrafficChecker,2026-05-03
+Khan Academy,khanacademy.org,Study support platform,study_support,2026-02-01,24700000,visits,WebsiteTrafficChecker,2026-05-03
+Khan Academy,khanacademy.org,Study support platform,study_support,2026-03-01,24000000,visits,WebsiteTrafficChecker,2026-05-03

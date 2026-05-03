@@ -1,0 +1,13 @@
+year,ai_adoption_group,count,total_respondents,percentage
+2023,does_not_plan_to_use_ai,26221,89184,29.4
+2023,missing,1211,89184,1.36
+2023,plans_to_use_ai,22710,89184,25.46
+2023,uses_ai,39042,89184,43.78
+2024,does_not_plan_to_use_ai,14837,65437,22.67
+2024,missing,4530,65437,6.92
+2024,plans_to_use_ai,8408,65437,12.85
+2024,uses_ai,37662,65437,57.55
+2025,does_not_plan_to_use_ai,5454,49191,11.09
+2025,missing,15471,49191,31.45
+2025,plans_to_use_ai,1797,49191,3.65
+2025,uses_ai,26469,49191,53.81
