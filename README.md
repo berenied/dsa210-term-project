@@ -239,17 +239,21 @@ The AI-related study term becomes more visible over time. Traditional study-supp
 
 To test whether the visual differences were statistically meaningful, paired t-tests were used.
 
+A paired t-test was used because each AI-related trend value was compared with a traditional platform value from the same time period. Before interpreting the paired t-test results, the paired differences were checked with the Shapiro-Wilk normality test.
+
+The normality checks showed that the paired differences were not normally distributed. For this reason, Wilcoxon signed-rank tests were also applied as non-parametric robustness checks.
+
 The tests compared AI-related search interest with traditional platform search interest from the same category.
 
-| Comparison | Test | t-statistic | p-value | Result |
-|---|---:|---:|---:|---|
-| `ai friend` vs traditional advice average | Paired t-test | 3.9375 | 2.1694e-04 | Significant difference |
-| `chatgpt help` vs `quora` | Paired t-test | -18.7886 | 8.1217e-27 | Significant difference |
-| `chatgpt study` vs traditional study average | Paired t-test | -11.1635 | 6.4909e-24 | Significant difference |
+| Comparison | Paired t-test p-value | Wilcoxon p-value | Result |
+|---|---:|---:|---|
+| `ai friend` vs traditional advice average | 2.1694e-04 | 8.0002e-05 | Significant difference |
+| `chatgpt help` vs `quora` | 8.1217e-27 | 1.1054e-11 | Significant difference |
+| `chatgpt study` vs traditional study average | 6.4909e-24 | 2.1152e-20 | Significant difference |
 
-All three tests show statistically significant differences.
+All three paired t-tests showed statistically significant differences. The Wilcoxon signed-rank tests also showed significant differences, which supports the results even when the normality assumption is relaxed.
 
-This means the AI-related and traditional search patterns are not just randomly different. However, this still does not prove that the same individuals directly switched from one platform to another. It only shows that the overall search patterns differ in a meaningful way.
+This means the AI-related and traditional search patterns are not just randomly different. However, this does not prove that the same individuals directly switched from one platform to another. It only shows that the overall search patterns differ in a meaningful way.
 
 ---
 
@@ -532,12 +536,15 @@ The results tell a consistent story.
 
 AI-related search behavior is becoming more visible, especially in advice-seeking and study-support contexts. Traditional platforms still exist in the data, but AI-related terms show distinct patterns.
 
-The strongest evidence comes from Google Trends and hypothesis testing. Traffic and survey datasets support the broader context. Machine learning adds another layer by showing that AI-related and non-AI observations can be distinguished and that search interest can be predicted.
+The strongest evidence comes from Google Trends, hypothesis testing, and robustness checks. The paired t-tests showed statistically significant differences, and the Wilcoxon signed-rank tests supported these results even when the normality assumption was relaxed.
+
+Traffic and survey datasets support the broader context. Machine learning adds another layer by showing that AI-related and non-AI observations can be distinguished and that search interest can be predicted.
 
 The project does not prove complete replacement.  
 It shows a measurable shift in online attention toward AI-based help-seeking tools.
 
 ---
+
 ## Limitations
 
 This project has some limitations that should be considered when interpreting the results.
@@ -592,4 +599,4 @@ Open the notebooks in order:
 03_machine_learning_analysis.ipynb
 ```
 
-The notebooks use the files in `data/raw/` for data preparation and the cleaned files in `data/processed/` for EDA, hypothesis testing, survey summaries, traffic context, and machine learning analysis.
+Raw source files are stored in `data/raw/`, while the analysis mainly uses cleaned and processed files from `data/processed/`.
