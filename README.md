@@ -552,6 +552,14 @@ Because of these limitations, the project does not claim complete replacement of
 
 ---
 
+## AI Assistance Disclosure
+
+AI tools were used during this project for brainstorming, organizing the report structure, improving wording, and debugging code errors. They were also used to make explanations in the README and reports clearer.
+
+All datasets, code execution, analysis decisions, visualizations, results, and final interpretations were reviewed and completed by the student.
+
+---
+
 ## Final Conclusion
 
 This project finds evidence that AI-based tools are becoming an important part of online help-seeking, advice-seeking, and study-support behavior.
