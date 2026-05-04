@@ -296,7 +296,7 @@ Two of the three AI platforms increased during the observed period, while all st
 
 ---
 
-### Average Traffic Change by Platform Type
+### Platform-Type Traffic Summary
 
 ![Average Traffic Change by Platform Type](figures/05_average_traffic_change_by_platform_type.png)
 
@@ -538,6 +538,19 @@ The project does not prove complete replacement.
 It shows a measurable shift in online attention toward AI-based help-seeking tools.
 
 ---
+## Limitations
+
+This project has some limitations that should be considered when interpreting the results.
+
+Google Trends does not provide individual-level user data, so the project cannot prove that the same users directly moved from traditional platforms to AI tools. It only shows search interest patterns over time.
+
+The keyword set is also limited. The selected terms represent advice-seeking, general help-seeking, and study-support behavior, but they do not cover every possible form of online help-seeking.
+
+Platform traffic data is used only as recent supporting context because it covers a short time period. Also, the survey datasets represent specific respondent groups, such as Stack Overflow users or Pew survey respondents.
+
+Because of these limitations, the project does not claim complete replacement of traditional platforms. Instead, it shows evidence of a measurable shift in attention and search behavior toward AI-related tools.
+
+---
 
 ## Final Conclusion
 
@@ -571,4 +584,4 @@ Open the notebooks in order:
 03_machine_learning_analysis.ipynb
 ```
 
-The notebooks use the raw data files in `data/raw/` and create or use processed files in `data/processed/`.
+The notebooks use the files in `data/raw/` for data preparation and the cleaned files in `data/processed/` for EDA, hypothesis testing, survey summaries, traffic context, and machine learning analysis.
