@@ -446,11 +446,11 @@ Most mistakes occurred in the study-support category. This makes sense because A
 
 ![Feature Importance](figures/11_feature_importance.png)
 
-The most important feature in the Random Forest pattern-only model is `trend_score`.
+The most important feature in the Random Forest pattern-only model is `trend_score`. This means that the level of search interest itself is the strongest signal for distinguishing AI-related observations from traditional platform observations.
 
-Time-related variables such as `time_index` and `year` also contribute to classification.
+Time-related variables such as `time_index` and `year` also contribute to classification. This suggests that timing matters: AI-related search behavior becomes more distinguishable in later periods, while traditional platform trends follow different time patterns.
 
-This means the model is not only memorizing labels. It is using search interest levels and time patterns to distinguish AI-related and non-AI observations.
+Category features are less important than trend score and time features, but they still provide context. This means the distinction between AI and non-AI observations is driven mostly by search interest level and temporal change, not only by the general category of the keyword.
 
 ---
 
