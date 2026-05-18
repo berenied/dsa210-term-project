@@ -45,18 +45,18 @@
   <path d="M70 59H94" stroke="#EAF7FF" stroke-width="2" stroke-linecap="round"/>
   <path d="M82 47C86 51 88 55 88 59C88 63 86 67 82 71C78 67 76 63 76 59C76 55 78 51 82 47Z" stroke="#EAF7FF" stroke-width="2"/>
 
-  <text x="128" y="51" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800" letter-spacing="3" fill="#77E8FF">
+  <text x="128" y="51" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800" letter-spacing="4" fill="#77E8FF">
+    DSA210
+  </text>
+  <text x="128" y="72" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800" letter-spacing="4" fill="#FFFFFF" fill-opacity="0.92">
     PROJECT
   </text>
-  <text x="128" y="72" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800" letter-spacing="3" fill="#FFFFFF" fill-opacity="0.92">
-    WEBSITE
-  </text>
 
-  <line x1="252" y1="37" x2="252" y2="81" stroke="white" stroke-opacity="0.28" stroke-width="2"/>
-  <line x1="258" y1="59" x2="304" y2="59" stroke="#77E8FF" stroke-opacity="0.55" stroke-width="2"/>
-  <circle cx="310" cy="59" r="3.5" fill="#77E8FF" fill-opacity="0.95"/>
+  <line x1="235" y1="37" x2="235" y2="81" stroke="white" stroke-opacity="0.28" stroke-width="2"/>
+  <line x1="241" y1="59" x2="285" y2="59" stroke="#77E8FF" stroke-opacity="0.55" stroke-width="2"/>
+  <circle cx="291" cy="59" r="3.5" fill="#77E8FF" fill-opacity="0.95"/>
 
-  <text x="328" y="69" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="800" letter-spacing="1.4" fill="#FFFFFF">
+  <text x="320" y="69" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="800" letter-spacing="1.1" fill="#FFFFFF">
     View Project Website
   </text>
 
