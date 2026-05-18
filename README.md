@@ -1,16 +1,49 @@
 # DSA210 Term Project  
 ## Human-to-AI Interaction Shift Analysis
 
-<p align="center">
-  <a href="https://berenied-dsa210-human-ai-shift.lovable.app" target="_blank">
-    <img src="figures/website-button.svg" alt="View Project Website" width="620">
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>A visual data story of the human-to-AI help-seeking shift</strong><br>
-  Google Trends · Platform Traffic · Survey Evidence · Hypothesis Testing · Machine Learning
-</p>
+<table>
+<tr>
+<td align="center" width="80">
+
+### ✦  
+### ⟡  
+### ✦  
+
+</td>
+
+<td align="center" width="620">
+
+<br>
+
+<h3>🌐 Interactive Project Website</h3>
+
+<a href="https://berenied-dsa210-human-ai-shift.lovable.app" target="_blank">
+  <img src="figures/website-button.svg" alt="View Project Website" width="560">
+</a>
+
+<br>
+
+<sub>
+Visual companion page for the project findings, figures, statistical tests, traffic context, survey evidence, and ML results.
+</sub>
+
+<br><br>
+
+</td>
+
+<td align="center" width="80">
+  
+### ⋆  
+### ✦  
+### ⋆    
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -32,7 +65,7 @@ The project does **not** claim that traditional platforms disappeared. It also d
 
 ## Research Question
 
-**To what extent are people shifting from traditional human-based help-seeking platforms toward AI-based alternatives?**
+> **Research Question:** To what extent are people shifting from traditional human-based help-seeking platforms toward AI-based alternatives?
 
 To make this question measurable, the project focuses on three types of online behavior:
 
