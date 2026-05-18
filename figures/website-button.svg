@@ -1,21 +1,67 @@
-<svg width="620" height="86" viewBox="0 0 620 86" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="760" height="118" viewBox="0 0 760 118" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="620" y2="86" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8A2BE2"/>
-      <stop offset="0.5" stop-color="#5B7CFF"/>
+    <linearGradient id="borderGradient" x1="22" y1="14" x2="738" y2="104" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B56CFF"/>
+      <stop offset="0.48" stop-color="#6C7BFF"/>
       <stop offset="1" stop-color="#00D4FF"/>
     </linearGradient>
-    <filter id="shadow" x="-20" y="-20" width="660" height="126" filterUnits="userSpaceOnUse">
-      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#00D4FF" flood-opacity="0.28"/>
+
+    <linearGradient id="buttonGradient" x1="34" y1="25" x2="726" y2="93" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A1038"/>
+      <stop offset="0.45" stop-color="#24145A"/>
+      <stop offset="1" stop-color="#073B63"/>
+    </linearGradient>
+
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(154 58) rotate(12) scale(180 70)">
+      <stop stop-color="#B56CFF" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#B56CFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(610 58) rotate(-10) scale(190 70)">
+      <stop stop-color="#00D4FF" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#00D4FF" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="outerGlow" x="-20" y="-20" width="800" height="158" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#7C4DFF" flood-opacity="0.45"/>
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#00D4FF" flood-opacity="0.22"/>
+    </filter>
+
+    <filter id="softShadow" x="20" y="18" width="720" height="92" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000000" flood-opacity="0.45"/>
     </filter>
   </defs>
 
-  <rect x="8" y="8" width="604" height="70" rx="35" fill="url(#g)" filter="url(#shadow)"/>
-  <rect x="9.5" y="9.5" width="601" height="67" rx="33.5" stroke="white" stroke-opacity="0.35" stroke-width="3"/>
+  <rect x="22" y="14" width="716" height="90" rx="45" fill="url(#borderGradient)" opacity="0.95" filter="url(#outerGlow)"/>
+  <rect x="27" y="19" width="706" height="80" rx="40" fill="url(#buttonGradient)" filter="url(#softShadow)"/>
+  <rect x="27" y="19" width="706" height="80" rx="40" fill="url(#glowLeft)" opacity="0.55"/>
+  <rect x="27" y="19" width="706" height="80" rx="40" fill="url(#glowRight)" opacity="0.55"/>
+  <rect x="30" y="22" width="700" height="74" rx="37" stroke="white" stroke-opacity="0.18" stroke-width="2"/>
 
-  <text x="310" y="51" text-anchor="middle"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="25" font-weight="700" fill="white">
-    🌐 Open Interactive Project Website
+  <circle cx="82" cy="59" r="27" fill="#0B1024" fill-opacity="0.72"/>
+  <circle cx="82" cy="59" r="26" stroke="#00D4FF" stroke-opacity="0.65" stroke-width="2"/>
+
+  <circle cx="82" cy="59" r="12" stroke="#EAF7FF" stroke-width="2"/>
+  <path d="M70 59H94" stroke="#EAF7FF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M82 47C86 51 88 55 88 59C88 63 86 67 82 71C78 67 76 63 76 59C76 55 78 51 82 47Z" stroke="#EAF7FF" stroke-width="2"/>
+
+  <text x="128" y="51" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800" letter-spacing="3" fill="#77E8FF">
+    PROJECT
   </text>
+  <text x="128" y="72" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800" letter-spacing="3" fill="#FFFFFF" fill-opacity="0.92">
+    WEBSITE
+  </text>
+
+  <line x1="252" y1="37" x2="252" y2="81" stroke="white" stroke-opacity="0.28" stroke-width="2"/>
+  <line x1="258" y1="59" x2="304" y2="59" stroke="#77E8FF" stroke-opacity="0.55" stroke-width="2"/>
+  <circle cx="310" cy="59" r="3.5" fill="#77E8FF" fill-opacity="0.95"/>
+
+  <text x="328" y="69" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="800" letter-spacing="1.4" fill="#FFFFFF">
+    View Project Website
+  </text>
+
+  <circle cx="680" cy="59" r="25" fill="#FFFFFF" fill-opacity="0.10"/>
+  <circle cx="680" cy="59" r="24" stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="2"/>
+  <path d="M670 59H689" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <path d="M682 51L690 59L682 67" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
