@@ -1,6 +1,8 @@
 # DSA210 Term Project  
 ## Human-to-AI Interaction Shift Analysis
 
+> **Interactive Project Website:** [View the project website](https://berenied-dsa210-human-ai-shift.lovable.app)  
+
 **Course:** DSA 210 – Introduction to Data Science  
 **Student:** Ela Beren Yücel  
 **Student ID:** 34155  
