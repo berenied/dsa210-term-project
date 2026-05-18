@@ -450,7 +450,7 @@ Open and run the notebooks in order:
 
 ```text
 01_data_preparation.ipynb
-02_eda_hypothesis_testing.ipynb
+02_eda_and_hypothesis_tests.ipynb
 03_machine_learning_analysis.ipynb
 ```
 
