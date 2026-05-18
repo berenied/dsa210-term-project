@@ -1,7 +1,18 @@
 # DSA210 Term Project  
 ## Human-to-AI Interaction Shift Analysis
 
-> **Interactive Project Website:** [View the project website](https://berenied-dsa210-human-ai-shift.lovable.app)  
+<p align="center">
+  <a href="https://berenied-dsa210-human-ai-shift.lovable.app" target="_blank">
+    <img src="figures/website-button.svg" alt="View Project Website" width="620">
+  </a>
+</p>
+
+<p align="center">
+  <strong>A visual data story of the human-to-AI help-seeking shift</strong><br>
+  Google Trends · Platform Traffic · Survey Evidence · Hypothesis Testing · Machine Learning
+</p>
+
+---
 
 **Course:** DSA 210 – Introduction to Data Science  
 **Student:** Ela Beren Yücel  
