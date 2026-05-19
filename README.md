@@ -35,9 +35,9 @@ Visual companion page for the project findings, figures, statistical tests, traf
 
 <td align="center" width="80">
   
-### ⋆  
 ### ✦  
-### ⋆    
+### ⟡  
+### ✦   
 
 </td>
 </tr>
